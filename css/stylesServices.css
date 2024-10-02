@@ -52,7 +52,6 @@ a {
 /* Estilos de Navegación (Header) */
 .navbar {
     background-color: #E9F1FA;
-    color: white;
     padding: 10px 0;
     box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
     position: fixed;
@@ -82,7 +81,7 @@ a {
 
 
 .navbar nav ul li a {
-    color:  #1E375A;
+    color: #1E375A;
     font-weight: bold;
     padding: 10px;
     transition: color 0.3s;
