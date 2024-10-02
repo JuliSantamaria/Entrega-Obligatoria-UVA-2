@@ -174,7 +174,6 @@ section .services-container{
 /* Footer */
 footer {
     background-color: #E9F1FA;
-    color: white;
     padding: 20px 0;
     text-align: center;
 }
@@ -274,6 +273,7 @@ footer p {
     /* Footer */
     footer {
         padding: 10px 0;
+        color: #1E375A;
     }
 
     footer .footer {
