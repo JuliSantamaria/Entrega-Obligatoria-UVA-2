@@ -285,8 +285,26 @@ footer {
     vertical-align: middle;
 }
 
+.btn {
+    background-color: #00aaff;
+    color: white;
+    padding: 15px 25px;
+    text-decoration: none;
+    border-radius: 20px;
+    font-size: 12px;
+    transition: background-color 0.3s ease;
+    margin-bottom: 1vw;
+    width: 7vw
+}
 
+.btn:hover {
+    background-color: #008ecc;
+}
 
+.projects-box-buttons {
+    margin-bottom: 1vw;
+    margin-top: 1vw;
+}
 
 @media (max-width: 400px) {
     .hamburger-menu {
